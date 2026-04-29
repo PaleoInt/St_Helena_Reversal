@@ -1,8 +1,8 @@
-Title: Paleomagnetic study on a polarity transition and paleosecular variations from Saint Helena, South Atlantic
+**Title**: Paleomagnetic study on a polarity transition and paleosecular variations from Saint Helena, South Atlantic
 
-Authors: Schnepp et al.
+**Authors**: Schnepp et al.
 
-Journal: 
+**Journal**: 
 
 ## Data description
 This repository contains all raw demagnetization and paleointensity data used in the above publication:  
@@ -10,7 +10,7 @@ This repository contains all raw demagnetization and paleointensity data used in
  - StHelena-Coe-Thellier.zip contains data of Thellier experiments performed in Coe (1967) version in ThellierTool4.0 format (Leonhardt et al. 2004).
  
  - StHelena-IZZI.zip contains specimen data from IZZI experiments (Yu et al., 2002) exported from paleointensity.org (Béguin et al., 2020).
- - demag contains demagnetization data in rs3 format used by Remasoft 3.0  software (Chadima and Hrouda, 2006)
+ - StHelena-demag.zip contains demagnetization data in rs3 format used by Remasoft 3.0  software (Chadima and Hrouda, 2006)
 
 ## References
 Béguin A, Paterson G, Biggin AJ, de Groot L (2020) Paleointensity.org: an online, open source, application for the interpretation of paleointensity data. Geochem Geophys Geosyst 21 doi:10.1029/2019GC008791.
