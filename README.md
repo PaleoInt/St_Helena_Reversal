@@ -2,7 +2,9 @@
 
 **Authors**: Schnepp et al.
 
-**Journal**: 
+**Journal**: Earth and Planetary Physics
+
+http://doi.org/10.26464/epp2026083
 
 ## Data description
 This repository contains all raw demagnetization and paleointensity data used in the above publication:  
